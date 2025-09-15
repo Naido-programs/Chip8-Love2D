@@ -1,3 +1,7 @@
+# Chip8 using Love2D!
+
+A simple library to execute **Chip8** code.
+
 # Requirements
 
 Install **Love2D** on your system and download the repository, if you are on Linux, go to the main folder of the project, open the terminal an excecute **"love ./"** and that's all. Download some Chip8 code and copy to the main folder, then modify the "fileName" variable inside "main.lua" with the name of your file and run.
