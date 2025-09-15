@@ -15,13 +15,17 @@ Install **Love2D** on your system and download the repository, if you are on Lin
 
 # Chip8 Controls
 **Chip8 keyboard**
-1 2 3 C
-4 5 6 D
-7 8 9 E
-A 0 B F
+
+|1|2|3|C|
+|--|--|--|--|
+|4|5|6|D|
+|7|8|9|E|
+|A|0|B|F|
 
 **keyboard mapping**
-1	2	3	4
-Q W E R
-A  S  D F
-Z  X C V
+
+|1|2|3|4|
+|--|--|--|--|
+|Q|W|E|R|
+|A|S|D|F|
+|Z|X|C|V|
