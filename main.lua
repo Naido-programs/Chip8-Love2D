@@ -2,7 +2,7 @@ io.stdout:setvbuf('no')
 chip8 = require "Chip8Lib"
 
 function love.load()
-	fileName = "4-flags.ch8"
+	fileName = "IBM Logo.ch8"
 	chip8.loadROM(fileName)
     
     -- Configuración de velocidad
